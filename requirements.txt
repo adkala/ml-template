@@ -4,7 +4,7 @@ numpy
 
 # exp
 omegaconf
-hydra
+hydra-core
 
 # logging
 wandb
